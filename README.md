@@ -1,16 +1,14 @@
 # flutter_api_integration
 
-A Flutter project to demonstrate APIs integration.
+A Flutter project to demonstrate APIs integration.Integrating APIs with Flutter is crucial for creating dynamic and data-driven applications. APIs provide a way for Flutter apps to fetch real-time data, authenticate users, and perform various tasks without the need for local databases or hardcoded content.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot 2024-08-12 160209](https://github.com/user-attachments/assets/c5487b55-2b84-4cbb-896e-d67adeeefc2f)
+![Screenshot 2024-08-12 160129](https://github.com/user-attachments/assets/b5e17e75-46db-4fb0-a2d3-aff8a86483a7)
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Uploading Dictionary app reel.mp4…
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
